@@ -1,0 +1,13 @@
+Source: ui-grid
+Section: web
+Priority: optional
+Maintainer: Klee Dienes <klee.dienes@hadronindustries.com>
+Build-Depends: dpkg-dev, debhelper
+Standards-Version: 3.9.6
+Homepage: ui-grid
+
+Package: libjs-ui-grid
+Architecture: all
+Depends: ${misc:Depends}
+Description: ui-grid
+ ui-grid
